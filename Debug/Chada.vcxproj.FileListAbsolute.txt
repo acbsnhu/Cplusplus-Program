@@ -1,0 +1,2 @@
+U:\Chada\Debug\Chada.exe
+U:\Chada\Debug\Chada.pdb
